@@ -1,0 +1,1 @@
+The IPL data analysis project involved loading IPL match data into an AWS S3 bucket and processing it with Databricks and Apache Spark. We focused on data engineering and analysis, utilizing Plotly for visualizations. This integration of advanced technologies provided practical insights into sports analytics, demonstrating effective big data application in a real-world scenario.
